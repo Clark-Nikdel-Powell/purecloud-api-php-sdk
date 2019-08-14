@@ -1,0 +1,24 @@
+{
+  "name": "echodelta/purecloud-api-php-sdk",
+  "type": "library",
+  "description": "PHP SDK for the PureCloud API",
+  "keywords": [
+    "purecloud",
+    "api",
+    "php",
+    "sdk"
+  ],
+  "homepage": "https://github.com/Clark-Nikdel-Powell/purecloud-api-php-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Glenn Welser",
+      "email": "glenn.welser@gmail.com",
+      "homepage": "https://echodelta.co/people/glenn/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  }
+}
